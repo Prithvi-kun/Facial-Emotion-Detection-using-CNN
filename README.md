@@ -77,7 +77,7 @@ The model achieved approximately **65% accuracy** on the test dataset.
 ## Sample Prediction
 Example of the model predicting the emotion from a facial image.
 
-![Prediction Example](images/Output.jpeg)
+![Prediction Example](images/FED_Output.jpeg)
 
 ---
 
