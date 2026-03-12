@@ -10,7 +10,7 @@ The goal of this project is to explore how deep learning and computer vision tec
 ## Dataset
 The model is trained using the **Facial Expression Dataset** available on Kaggle.
 
-![Accuracy Graph](images/FED_Dataset.png)
+![Accuracy Graph](images/FED_Dataset.jpg)
 
 Dataset characteristics:
 - Grayscale facial images
@@ -30,7 +30,7 @@ Emotion classes:
 ---
 
 ### Test Images
-![Accuracy Graph](images/FED_DataFrame.png)
+![Accuracy Graph](images/FED_DataFrame.jpeg)
 
 ---
 
@@ -70,19 +70,19 @@ The model achieved approximately **65% accuracy** on the test dataset.
 ![Accuracy Graph](images/FED_AccuracyGraph.png)
 
 ### Loss Graph
-![Loss Graph](images/FED_LossGraph.png)
+![Loss Graph](images/FED_LossGraph.jpeg)
 
 ---
 
 ## Sample Prediction
 Example of the model predicting the emotion from a facial image.
 
-![Prediction Example](images/Output.png)
+![Prediction Example](images/Output.jpeg)
 
 ---
 
 ### Accuracy
-![Accuracy Graph](images/FED_Accuracy.png)
+![Accuracy Graph](images/FED_Accuracy.jpeg)
 
 ---
 
