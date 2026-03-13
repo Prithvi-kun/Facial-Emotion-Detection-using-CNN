@@ -8,7 +8,7 @@ The goal of this project is to explore how deep learning and computer vision tec
 ---
 
 ## Dataset
-The model is trained using the **Facial Expression Dataset** available on Kaggle.
+The model is trained using the **Facial Expression Dataset** available on Kaggle with over 15000 images to train the model.
 
 ![Accuracy Graph](images/FED_Dataset.jpg)
 
