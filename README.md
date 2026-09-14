@@ -70,7 +70,7 @@ The model achieved approximately **65% accuracy** on the test dataset.
 ![Accuracy Graph](images/FED_AccuracyGraph.png)
 
 ### Loss Graph
-![Loss Graph](images/FED_LossGraph.jpeg)
+![Loss Graph](images/FED_LossGraph.png)
 
 ---
 
